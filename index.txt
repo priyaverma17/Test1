@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA5C-8A76
+
+ Directory of C:\Users\prve271890\Desktop\gitPractice
+
+20-05-2019  15:55    <DIR>          .
+20-05-2019  15:55    <DIR>          ..
+20-05-2019  15:55                 0 index.txt
+20-05-2019  15:39                25 test.txt
+               2 File(s)             25 bytes
+               2 Dir(s)  960,918,233,088 bytes free
